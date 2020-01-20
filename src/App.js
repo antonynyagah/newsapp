@@ -72,8 +72,8 @@ constructor(props){
         }
         )
         }
-        
-          <footer>this app is powered by <a href ="https://newsapi.org" target="blank">NEWSAPI</a></footer>
+        <footer>By Antony Nyagah</footer>
+        <footer>This app is powered by <a href ="https://newsapi.org" target="blank">NEWSAPI</a></footer>
        
       </div>
     );
