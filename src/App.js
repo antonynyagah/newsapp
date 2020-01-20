@@ -39,7 +39,7 @@ constructor(props){
     console.log(this.state)
     return (
       <div className="App">
-        <h2>Tech Paradise</h2>
+        <h2>React News</h2>
                 
                 <Link className="nav" to="/politics">Politics</Link>
                 <Link className="nav"to="/tech">Tech</Link>
